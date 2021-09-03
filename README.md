@@ -1,2 +1,2 @@
 # Path-Finding-visualisation
-programs with path finding
+Program showcasing A* search using python's pygame library to visualise how A* search functions
